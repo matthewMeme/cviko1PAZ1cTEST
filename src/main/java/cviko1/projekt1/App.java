@@ -17,4 +17,7 @@ public class App {
 	private static int plus(int a, int b) {
 		return a + b;
 	}
+	private static int dvekrat(int i) {
+		return i*2;
+	}
 }
