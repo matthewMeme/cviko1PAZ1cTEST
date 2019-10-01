@@ -13,4 +13,8 @@ public class App {
 		}
 		System.out.println(g);
 	}
+
+	private static int plus(int a, int b) {
+		return a + b;
+	}
 }
